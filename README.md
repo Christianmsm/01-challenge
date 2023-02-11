@@ -26,7 +26,7 @@ Deployed Site:
 https://christianmsm.github.io/01-challenge/
 
 Screenshot:
-
+<img src="assets/christianmsm.github.io_01-challenge_ (1).png">
 
 
 
