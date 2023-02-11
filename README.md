@@ -15,6 +15,21 @@ I then adjusted the font size for the "p" elements as well as for the main logo 
 
 This assignment challenged me to really look line by line to find the things that were missing and what could be changed to clean the code up and make it function much better that previously.
 
+## Deployment
+
+Attached are links for this project, including my GitHub repo, deployed site, & a screenshot of what my site looks like.
+
+GitHub:
+https://github.com/Christianmsm/01-challenge
+
+Deployed Site:
+https://christianmsm.github.io/01-challenge/
+
+Screenshot:
+
+
+
+
 ## Credits
 
 For this assignment I also refered to W3 schools for help with semantic HTML elements.
